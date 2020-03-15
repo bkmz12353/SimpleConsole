@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\123\123\bin\Debug\123.exe.config
+C:\Users\User\Desktop\123\123\bin\Debug\123.exe
+C:\Users\User\Desktop\123\123\bin\Debug\123.pdb
+C:\Users\User\Desktop\123\123\obj\Debug\123.csprojAssemblyReference.cache
+C:\Users\User\Desktop\123\123\obj\Debug\123.exe
+C:\Users\User\Desktop\123\123\obj\Debug\123.pdb
